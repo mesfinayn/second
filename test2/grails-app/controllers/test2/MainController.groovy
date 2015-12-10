@@ -4,3 +4,4 @@ class MainController {
 
     def index() { }
 }
+test
